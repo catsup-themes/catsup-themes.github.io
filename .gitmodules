@@ -10,3 +10,6 @@
 [submodule "catsup-theme-brief"]
 	path = catsup-theme-brief
 	url = https://github.com/JmPotato/catsup-theme-brief.git
+[submodule "catsup"]
+	path = catsup
+	url = https://github.com/whtsky/catsup.git
