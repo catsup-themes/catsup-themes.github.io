@@ -1,0 +1,12 @@
+[submodule "catsup-theme-clean"]
+	path = catsup-theme-clean
+	url = https://github.com/whtsky/catsup-theme-clean.git
+[submodule "catsup-theme-reos"]
+	path = catsup-theme-reos
+	url = https://github.com/JmPotato/catsup-theme-reos.git
+[submodule "catsup-theme-bootstrap"]
+	path = catsup-theme-bootstrap
+	url = https://github.com/JmPotato/catsup-theme-bootstrap.git
+[submodule "catsup-theme-brief"]
+	path = catsup-theme-brief
+	url = https://github.com/JmPotato/catsup-theme-brief.git
