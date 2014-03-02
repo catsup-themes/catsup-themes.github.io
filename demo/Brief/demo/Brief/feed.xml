@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>sealscript - Demo</title>
+    <title>Brief - Demo</title>
     <link href="" rel="self" />
-    <link href="http://catsup-themes.github.io/demo/sealscript/" />
+    <link href="http://catsup-themes.github.io/demo/Brief/" />
     <updated>2014-02-07T19:42:00Z</updated>
-    <id>http://catsup-themes.github.io/demo/sealscript/</id>
+    <id>http://catsup-themes.github.io/demo/Brief/</id>
     
     <entry>
         <title><![CDATA[你好，世界！]]></title>
-        <author><name>Lyric</name><uri>http://catsup-themes.github.io/demo/sealscript/</uri></author>
-        <link href="http://catsup-themes.github.io/demo/sealscript/demo/sealscript/你好，世界！/"/>
+        <author><name>JmPotato</name><uri>http://catsup-themes.github.io/demo/Brief/</uri></author>
+        <link href="http://catsup-themes.github.io/demo/Brief/demo/Brief/你好，世界！/"/>
         <updated>2014-02-07T19:42:00Z</updated>
         <published>2014-02-07T19:42:00Z</published>
-        <id>http://catsup-themes.github.io/demo/sealscript/demo/sealscript/你好，世界！/</id>
+        <id>http://catsup-themes.github.io/demo/Brief/demo/Brief/你好，世界！/</id>
         <content type="html">
             <![CDATA[
              <p>你好，世界！  </p>
@@ -25,11 +25,11 @@
     
     <entry>
         <title><![CDATA[Hello, World!]]></title>
-        <author><name>Lyric</name><uri>http://catsup-themes.github.io/demo/sealscript/</uri></author>
-        <link href="http://catsup-themes.github.io/demo/sealscript/demo/sealscript/Hello,-World!/"/>
+        <author><name>JmPotato</name><uri>http://catsup-themes.github.io/demo/Brief/</uri></author>
+        <link href="http://catsup-themes.github.io/demo/Brief/demo/Brief/Hello,-World!/"/>
         <updated>2014-01-17T22:36:00Z</updated>
         <published>2014-01-17T22:36:00Z</published>
-        <id>http://catsup-themes.github.io/demo/sealscript/demo/sealscript/Hello,-World!/</id>
+        <id>http://catsup-themes.github.io/demo/Brief/demo/Brief/Hello,-World!/</id>
         <content type="html">
             <![CDATA[
              <p>Hello, World!  </p>

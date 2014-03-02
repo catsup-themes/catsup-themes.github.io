@@ -15,9 +15,9 @@
         <id>http://catsup-themes.github.io/demo/clean/demo/clean/你好，世界！/</id>
         <content type="html">
             <![CDATA[
-             <p>你好，世界！</p>
+             <p>你好，世界！  </p>
 
-<p>这是一篇*由系统*创建的文章。</p>
+<p>这是一篇*由系统*创建的文章。  </p>
 
             ]]>
         </content>
@@ -32,9 +32,9 @@
         <id>http://catsup-themes.github.io/demo/clean/demo/clean/Hello,-World!/</id>
         <content type="html">
             <![CDATA[
-             <p>Hello, World!</p>
+             <p>Hello, World!  </p>
 
-<p>This post was created <em>by system</em>.</p>
+<p>This post was created <em>by system</em>.  </p>
 
             ]]>
         </content>
