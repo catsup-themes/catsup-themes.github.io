@@ -1,6 +1,9 @@
+http://catsup-themes.github.io/demo/sealscript/主题样式测试文章/
 http://catsup-themes.github.io/demo/sealscript/你好，世界！/
 http://catsup-themes.github.io/demo/sealscript/Hello,-World!/
-http://catsup-themes.github.io/demo/sealscript/tag/你好-世界-posts/
+http://catsup-themes.github.io/demo/sealscript/tag/样式/
+http://catsup-themes.github.io/demo/sealscript/tag/posts/
+http://catsup-themes.github.io/demo/sealscript/tag/测试/
 http://catsup-themes.github.io/demo/sealscript/archive/2014/
 http://catsup-themes.github.io/demo/sealscript/feed.xml
 http://catsup-themes.github.io/

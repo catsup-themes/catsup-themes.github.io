@@ -3,8 +3,108 @@
     <title>Brief - Demo</title>
     <link href="" rel="self" />
     <link href="http://catsup-themes.github.io/demo/Brief/" />
-    <updated>2014-02-07T19:42:00Z</updated>
+    <updated>2014-03-02T21:39:00Z</updated>
     <id>http://catsup-themes.github.io/demo/Brief/</id>
+    
+    <entry>
+        <title><![CDATA[主题样式测试文章]]></title>
+        <author><name>JmPotato</name><uri>http://catsup-themes.github.io/demo/Brief/</uri></author>
+        <link href="http://catsup-themes.github.io/demo/Brief/主题样式测试文章/"/>
+        <updated>2014-03-02T21:39:00Z</updated>
+        <published>2014-03-02T21:39:00Z</published>
+        <id>http://catsup-themes.github.io/demo/Brief/主题样式测试文章/</id>
+        <content type="html">
+            <![CDATA[
+             <h1>H1 标签 #</h1>
+
+<p>P 标签。  </p>
+
+<h1>H1 标签 #</h1>
+
+<h2>H2 标签 ##</h2>
+
+<p>P 标签。  </p>
+
+<h2>H2 标签 ##</h2>
+
+<h3>H3 标签 ###</h3>
+
+<h4>H4 标签 ####</h4>
+
+<h5>H5 标签 #####</h5>
+
+<h6>H6 标签 ######</h6>
+
+<p>这里是一个专门展示 <a href="https://github.com/whtsky/Catsup">catsup</a> 主题的 Demo 站点。  </p>
+
+<ul>
+<li>无序列表 1；<br/></li>
+<li>无序列表 2；<br/></li>
+<li>无序列表之长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长文本版本；<br/></li>
+<li>无序列表之有逗号，有逗号，有逗号，有逗号，有逗号，有逗号，有逗号，有逗号，有逗号，有逗号，有逗号，有逗号，有逗号，有逗号，有逗号，有逗号的长文本版本；<br/>
+
+<ul>
+<li>无序列表里面的无序列表；<br/></li>
+<li>我们中出了一个叛徒；<br/></li>
+<li>两个；<br/></li>
+</ul></li>
+<li>无序列表中的<a href="#%E5%96%B5">链接</a>。<br/></li>
+</ul>
+
+<hr/>
+
+<ol>
+<li>有序列表 1；<br/></li>
+<li>有序列表 2；<br/></li>
+<li>有序列表之长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长文本版本；<br/></li>
+<li>有序列表之有逗号，有逗号，有逗号，有逗号，有逗号，有逗号，有逗号，有逗号，有逗号，有逗号，有逗号，有逗号，有逗号，有逗号，有逗号，有逗号的长文本版本；<br/></li>
+<li>有序列表中的<a href="#%E5%96%B5">链接</a>。<br/></li>
+</ol>
+
+<blockquote>
+<p>佛曰：“不可说，不可说。”  </p>
+
+<p>要有光！！！  </p>
+</blockquote>
+
+<hr/>
+<div class="highlight"><pre><span class="c">#!/usr/bin/python  </span>
+<span class="c"># hey  </span>
+<span class="kn">from</span> <span class="nn">person</span> <span class="kn">import</span> <span class="n">Person</span> <span class="k">as</span> <span class="n">Person</span>  
+
+<span class="k">class</span> <span class="nc">Me</span><span class="p">(</span><span class="n">Person</span><span class="p">):</span>  
+    <span class="k">def</span> <span class="nf">__new__</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">sex</span><span class="o">=</span><span class="s">&#39;male&#39;</span><span class="p">,</span> <span class="n">name</span><span class="o">=</span><span class="s">&#39;XY&#39;</span><span class="p">):</span>  
+        <span class="bp">self</span><span class="o">.</span><span class="n">sex</span> <span class="o">=</span> <span class="n">sex</span>  
+        <span class="bp">self</span><span class="o">.</span><span class="n">name</span> <span class="o">=</span> <span class="n">name</span>  
+
+<span class="n">Me</span> <span class="o">=</span> <span class="n">Me</span><span class="p">()</span>  
+<span class="n">He</span> <span class="o">=</span> <span class="n">Person</span><span class="p">(</span><span class="n">sex</span><span class="o">=</span><span class="s">&#39;male&#39;</span><span class="p">,</span> <span class="n">name</span><span class="o">=</span><span class="s">&#39;Z|-|&#39;</span><span class="p">)</span>  
+<span class="n">U</span> <span class="o">=</span> <span class="n">Person</span><span class="p">(</span><span class="n">sex</span><span class="o">=</span><span class="s">&#39;female&#39;</span><span class="p">,</span> <span class="n">name</span><span class="o">=</span><span class="s">&#39;VVY&#39;</span><span class="p">)</span>  
+
+<span class="k">while</span> <span class="ow">not</span> <span class="p">(</span><span class="n">U</span><span class="o">.</span><span class="n">leave</span><span class="p">(</span><span class="n">He</span><span class="p">)</span> <span class="ow">and</span> <span class="n">U</span><span class="o">.</span><span class="n">accept</span><span class="p">(</span><span class="n">Me</span><span class="p">)):</span>  
+    <span class="n">Me</span><span class="o">.</span><span class="n">waitFor</span><span class="p">(</span><span class="n">U</span><span class="p">);</span>  
+    <span class="c"># 这是或许一个死循环</span>
+</pre></div>
+
+<pre><code>var http = require(&#39;http&#39;);   
+
+http.createServer(function(req, res) {   
+  res.end(&#39;Hello, Node.js!&#39;);   
+}).listen(3000);   
+
+console.log(&#39;Hello, console :)&#39;);</code></pre>
+
+<p><img src="http://img.ly/system/uploads/008/145/777/original_image20140227-20742-1pemsmn." alt="学校的日常"/>  </p>
+
+<hr/>
+
+<ul>
+<li>End Of File -<br/></li>
+</ul>
+
+            ]]>
+        </content>
+    </entry>
     
     <entry>
         <title><![CDATA[你好，世界！]]></title>
@@ -17,7 +117,7 @@
             <![CDATA[
              <p>你好，世界！  </p>
 
-<p>这是一篇*由系统*创建的文章。  </p>
+<p>这是一篇 <em>由系统</em> 创建的文章。  </p>
 
             ]]>
         </content>

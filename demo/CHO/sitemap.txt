@@ -1,7 +1,11 @@
+http://catsup-themes.github.io/demo/CHO/主题样式测试文章/
 http://catsup-themes.github.io/demo/CHO/你好，世界！/
 http://catsup-themes.github.io/demo/CHO/Hello,-World!/
-http://catsup-themes.github.io/demo/CHO/tag/hello-world-posts/
-http://catsup-themes.github.io/demo/CHO/tag/你好-世界-posts/
+http://catsup-themes.github.io/demo/CHO/tag/posts/
+http://catsup-themes.github.io/demo/CHO/tag/样式/
+http://catsup-themes.github.io/demo/CHO/tag/你好-世界/
+http://catsup-themes.github.io/demo/CHO/tag/测试/
+http://catsup-themes.github.io/demo/CHO/tag/hello-world/
 http://catsup-themes.github.io/demo/CHO/archive/index.html
 http://catsup-themes.github.io/demo/CHO/feed.xml
 http://catsup-themes.github.io/

@@ -1,3 +1,4 @@
+http://catsup-themes.github.io/demo/Brief/主题样式测试文章/
 http://catsup-themes.github.io/demo/Brief/你好，世界！/
 http://catsup-themes.github.io/demo/Brief/Hello,-World!/
 http://catsup-themes.github.io/demo/Brief/archive/index.html
