@@ -1,0 +1,194 @@
+@charset "utf-8";
+/* Simple fluid media
+   Note: Fluid media requires that you remove the media's height and width attributes from the HTML
+   http://www.alistapart.com/articles/fluid-images/ 
+*/
+html {
+	box-shadow: 0 0 20px rgb(9, 98, 162) inset;
+}
+body {
+	font-family: "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif; 
+	font-size: 1.1em;
+	padding-top: 20px;
+	padding-bottom: 50px;
+	background: #003B86;
+}
+p,h1,h2,h3,h4,h5,h6 {
+	text-align: center;
+	word-wrap: break-word;
+}
+h1{font-size:2em;margin:.67em 0}h2{font-size:1.5em;margin:.83em 0}h3{font-size:1.17em;margin:1em 0}h4{font-size:1em;margin:1.33em 0}h5{font-size:.83em;margin:1.67em 0}h6{font-size:.67em;margin:2.33em 0}
+img, object, embed, video {
+
+}
+*{
+		-webkit-transition: all 0.3s ease;
+	-moz-transition: all 0.3s ease;
+	-ms-transition: all 0.3s ease;
+	-o-transition: all 0.3s ease;
+	transition: all 0.3s ease;
+}
+/* IE 6 does not support max-width so default to width 100% */
+.ie6 img {
+	width:100%;
+}
+
+/*
+	Dreamweaver Fluid Grid Properties
+	----------------------------------
+	dw-num-cols-mobile:		4;
+	dw-num-cols-tablet:		8;
+	dw-num-cols-desktop:	12;
+	dw-gutter-percentage:	25;
+	
+	Inspiration from "Responsive Web Design" by Ethan Marcotte 
+	http://www.alistapart.com/articles/responsive-web-design
+	
+	and Golden Grid System by Joni Korpi
+	http://goldengridsystem.com/
+*/
+
+.fluid {
+	margin-left: 0;
+	width: 100%;
+	float: right;
+	display: block;
+}
+
+.fluidList {
+    list-style:none;
+    list-style-image:none;
+    margin:0;
+    padding:0;        
+}
+
+/* Mobile Layout: 480px and below. */
+  
+.gridContainer {
+	margin-left: auto;
+	margin-right: auto;
+	width: 86.45%;
+	padding-left: 2.275%;
+	padding-right: 2.275%;
+	clear: none;
+	float: none;
+}
+
+#logo_bar {
+	margin-left: 0;
+	margin-top: 25px;
+}
+.logo_bar_item {
+	background-color: rgb(63,169,245);
+	color: #FFFFFF;
+	-webkit-transition: all 0.3s ease;
+	-moz-transition: all 0.3s ease;
+	-ms-transition: all 0.3s ease;
+	-o-transition: all 0.3s ease;
+	transition: all 0.3s ease;
+	float: right;
+	max-width: 50px;
+	text-align: center;
+	font-size: 2em;
+	text-shadow: 0 0 10px #222;
+	box-shadow: 0 0 10px rgb(9, 98, 162);
+}
+.logo_bar_item:hover {
+	background-color: rgb(255,153,102);
+	text-shadow: 0 0 10px #fff;
+
+}
+.logo {
+	float: left;
+	width: 100%;
+}
+.logo a {
+	text-decoration: none;
+	color: #FFF;
+
+}
+.main {
+	box-shadow: 0 0 10px rgb(9, 98, 162) ;
+	margin-top: 40px;
+	color: #222;
+	border: solid 3px rgb(63,169,245);
+	background: #fff;
+	text-shadow: 0 0 1px rgb(136, 205, 255);
+}
+.main .container {
+	margin: 15px 20px;
+}
+.zeroMargin_mobile {
+margin-left: 0;
+}
+.hide_mobile {
+display: none;
+}
+
+/* Tablet Layout: 481px to 768px. Inherits styles from: Mobile Layout. */
+
+@media only screen and (min-width: 481px) {
+
+.gridContainer {
+	width: 90.675%;
+	padding-left: 1.1625%;
+	padding-right: 1.1625%;
+	clear: none;
+	float: none;
+	margin-left: auto;
+}
+#logo_bar {
+	width: 10.2564%;
+	margin-left: 0;
+}
+.logo {
+width: 100%;
+}
+.main {
+}
+.hide_tablet {
+display: none;
+}
+.zeroMargin_tablet {
+margin-left: 0;
+}
+
+}
+
+/* Desktop Layout: 769px to a max of 1232px.  Inherits styles from: Mobile Layout and Tablet Layout. */
+
+@media only screen and (min-width: 769px) {
+
+.gridContainer {
+	width: 88.5%;
+	max-width: 1232px;
+	padding-left: 0.75%;
+	padding-right: 0.75%;
+	margin: auto;
+	clear: none;
+	float: none;
+	margin-left: auto;
+}
+#logo_bar {
+width: 50px;
+margin-left: 0;
+}
+.logo_bar_item {
+}
+.logo {
+width: 100%;
+}
+.main {
+
+}
+.zeroMargin_desktop {
+margin-left: 0;
+}
+.hide_desktop {
+display: none;
+}
+#logo {
+	background-position: 0% 0%;
+	background-repeat: no-repeat;
+	height: 227px;
+}

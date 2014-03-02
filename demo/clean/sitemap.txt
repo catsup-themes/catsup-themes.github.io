@@ -1,8 +1,8 @@
-http://catsup-themes.github.io/demo/clean/demo/clean/你好，世界！/
-http://catsup-themes.github.io/demo/clean/demo/clean/Hello,-World!/
-http://catsup-themes.github.io/demo/clean/demo/clean/tag/hello-world-posts/
-http://catsup-themes.github.io/demo/clean/demo/clean/tag/你好-世界-posts/
-http://catsup-themes.github.io/demo/clean/demo/clean/archive/index.html
-http://catsup-themes.github.io/demo/clean/demo/clean/feed.xml
+http://catsup-themes.github.io/demo/clean/你好，世界！/
+http://catsup-themes.github.io/demo/clean/Hello,-World!/
+http://catsup-themes.github.io/demo/clean/tag/hello-world-posts/
+http://catsup-themes.github.io/demo/clean/tag/你好-世界-posts/
+http://catsup-themes.github.io/demo/clean/archive/index.html
+http://catsup-themes.github.io/demo/clean/feed.xml
 http://catsup-themes.github.io/
 http://catsup-themes.github.io/404.html
